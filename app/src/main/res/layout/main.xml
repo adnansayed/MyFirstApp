@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.adnan.myfirstapp.Main">
+
+
+<!--
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/floatingActionButton"
+        android:src="@drawable/mybutton"
+        app:fabSize="normal"
+        app:elevation="6dp"
+        android:layout_gravity="end"
+        app:pressedTranslationZ="12dp"
+        android:scaleType="fitXY"
+        android:layout_marginRight="27dp"
+        android:layout_marginEnd="27dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="19dp" />
+
+    <ImageButton
+        android:id="@+id/button_topleft"
+        android:layout_width="56dp"
+        android:src="@drawable/mybutton"
+        android:layout_height="56dp"
+        android:layout_marginRight="112dp"
+        android:layout_marginTop="125dp"
+        android:elevation="6dp"
+        android:layout_weight="1"
+        android:stateListAnimator="@animator/myanim"
+        android:background="@drawable/mystyle"
+        android:padding="0dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/floatingActionButton"
+        android:layout_toStartOf="@+id/floatingActionButton"
+        android:layout_marginEnd="112dp" />
+        -->
+</RelativeLayout>
